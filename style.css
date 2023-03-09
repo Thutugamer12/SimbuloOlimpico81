@@ -1,0 +1,11 @@
+.body_backgorund{
+background-image: "1.jpg";
+background-color:beige;
+background-position:center ;
+background-size:cover ;
+}
+#myCanvas
+{
+    background-color: aliceblue;
+    border-style:dotted ;
+}
